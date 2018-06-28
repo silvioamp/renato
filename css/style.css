@@ -80,9 +80,12 @@ section.slider{
     display: inline-block;
     position: relative;
     top: 25px;
-    
-    
-    
+        
+}
+
+.fotos{
+    margin-top: 25px;
+
 }
 
 

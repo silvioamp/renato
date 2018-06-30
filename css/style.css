@@ -65,7 +65,7 @@ section.slider{
     font-size: 20px;
     color: #0b4075;
     padding: 10px;
-    
+    text-align: center;
 }
 .quadrante p{
     padding-left: 10px;
@@ -75,10 +75,9 @@ section.slider{
 .imagem_logo{
     display: inline-block;
     text-align: center;
-    position: absolute;
-    left: 200px;       
+        
 }
-.col-md-6{
+.col{
     padding-right: 0;
 }
 

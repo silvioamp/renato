@@ -61,7 +61,7 @@ section.slider{
     margin-right: 70px;
 }
 
-.quadrante h2{
+.subtitulos{
     font-size: 20px;
     color: #0b4075;
     padding: 10px;
@@ -106,10 +106,68 @@ section.slider{
     border: 1px solid #c9c9c9;
     padding: 10px;
     margin: 40px 0px;
+    height: 75%;
 }
-
+.bordas p{
+    text-align: center;
+}
+.bordas i{
+    font-size: 28px;
+    color: #0b4075;
+}
+.whats{
+    position: absolute;
+    top: 55px;
+    left: 35px;
+}
+.tel{
+    text-align: center;
+    color: #0b4075;
+    font-size: 30px;
+}
 
 footer{
     background-image: url("../img/img_rodape.png");
+    width: 100%;
+    
+}
+.logo_rodape{
+    margin-top: 40px;
+}
+ .blue{
+    color: #FFF;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+
+address{
+    color: #FFF;
+}
+
+.tel_rodape{
+    color: #FFF;
+    font-size: 24px;
+    margin-bottom: 30px;
+    margin-right: 5px;
+}
+
+h4{
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+}
+.paragrafo{
+    color: #FFF;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.form-control{
+    display: inline-block;
+    width:40%;
+    padding: 5px;
+    text-align: center;
+
+}
+.btn-primary{
     width: 100%;
 }

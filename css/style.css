@@ -39,7 +39,6 @@ nav ul li a:hover{
 
 }
 
-
 section.secao{
     background-color: #FFF;
     width: 100%;
@@ -75,7 +74,7 @@ section.slider{
 .imagem_logo{
     display: inline-block;
     text-align: center;
-        
+    margin: 10%;    
 }
 .col{
     padding-right: 0;
@@ -84,6 +83,9 @@ section.slider{
 .fotos{
     margin-top: 25px;
 
+}
+.meio{
+    margin-top: 5%;
 }
 
 .meio h3{
@@ -101,6 +103,7 @@ section.slider{
     font-weight: bold;
     margin-top:20px;
 }
+
 
 .bordas{
     border: 1px solid #c9c9c9;
@@ -172,6 +175,20 @@ h4{
     width: 94%;
     margin-left: 16px;
 }
+.form-control::-webkit-input-placeholder {
+    color:#FFF;
+    text-align: left;
+ }
+
+ .form-control:-moz-placeholder { /* Firefox 18- */
+    color:#FFF;
+    text-align: left;  
+ }
+ 
+ .form-control::-moz-placeholder {  /* Firefox 19+ */
+    color:#FFF;
+    text-align: left; 
+ }
 
 .form-group input{
     opacity: 50%;
